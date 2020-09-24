@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "name": "browsersync",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:hreese/browsersync.git",
+  "author": "Heiko Reese <mail@heiko-reese.de>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.44.2"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}

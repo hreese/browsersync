@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36c5ce17-170d-4d78-95bd-aaefbec79162" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hyGtXut04sS6rv1tIO4WDJzA0t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.27200454" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.build (dev)">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build (dev)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build (prod)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.build (dev)" />
+      <item itemvalue="npm.build (prod)" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36c5ce17-170d-4d78-95bd-aaefbec79162" name="Default Changelist" comment="" />
+      <created>1600976133747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600976133747</updated>
+      <workItem from="1600976134809" duration="4817000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1113" y="307" width="1671" height="974" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600980541174">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="1113" y="307" width="1671" height="974" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2160/3840.0.3840.2160@0.0.3840.2160" timestamp="1600980541174" />
+    <state width="3803" height="583" key="GridCell.Tab.0.bottom" timestamp="1600980586721">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3803" height="583" key="GridCell.Tab.0.bottom/0.0.3840.2160/3840.0.3840.2160@0.0.3840.2160" timestamp="1600980586721" />
+    <state width="3803" height="583" key="GridCell.Tab.0.center" timestamp="1600980586721">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3803" height="583" key="GridCell.Tab.0.center/0.0.3840.2160/3840.0.3840.2160@0.0.3840.2160" timestamp="1600980586721" />
+    <state width="3803" height="583" key="GridCell.Tab.0.left" timestamp="1600980586721">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3803" height="583" key="GridCell.Tab.0.left/0.0.3840.2160/3840.0.3840.2160@0.0.3840.2160" timestamp="1600980586721" />
+    <state width="3803" height="583" key="GridCell.Tab.0.right" timestamp="1600980586721">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3803" height="583" key="GridCell.Tab.0.right/0.0.3840.2160/3840.0.3840.2160@0.0.3840.2160" timestamp="1600980586721" />
+    <state x="644" y="164" width="2305" height="1729" key="SettingsEditor" timestamp="1600984631282">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="644" y="164" width="2305" height="1729" key="SettingsEditor/0.0.3840.2160/3840.0.3840.2160@0.0.3840.2160" timestamp="1600984631282" />
+  </component>
+</project>
